@@ -20,6 +20,6 @@ python pacman.py -p AlphaBetaAgent -a depth=3 -l smallClassic
 Use following commands to test:                                                                                                                                     
 python pacman.py -p ExpectimaxAgent -l minimaxClassic -a depth=3
 
-5)Evaluation Function
+5)Evaluation Function                                                                                                                                                
 Use following commands to test:  
 python autograder.py -q q5
